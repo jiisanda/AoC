@@ -25,7 +25,7 @@ def calibration_values(inp: str) -> int:
 
 if __name__ == '__main__':
     total = 0
-    with open('trebuchet_ip.txt') as file:
+    with open('2023/day1/trebuchet_ip.txt') as file:
         for line in file:
             total += calibration_values(inp=line.strip())
     print(total)
