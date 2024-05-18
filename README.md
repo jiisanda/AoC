@@ -4,7 +4,16 @@
 
 ### 1: 
 
---- Day 1: Trebuchet?! --- https://adventofcode.com/2023/day/1
+Trebuchet?! --- https://adventofcode.com/2023/day/1
 
-- Solution: [Day 1](2023/day1/1trebuchet-part1.py) - Part 1
-- Solution: [Day 1](2023/day1/1trebuchet-part2.py) - Part 2
+#### Solution: [2023/day1](2023/day1)
+
+### 2:
+
+Conundrum --- https://adventofcode.com/2023/day/2
+
+#### Solution: [2023/day2](2023/day2)
+
+### 3:
+
+Gear Rations --- https://adventofcode.com/2023/day/3
